@@ -1,0 +1,10 @@
+name: Healer
+version: ${project.version}
+main: com.asians.healer.Main
+api-version: 1.16
+authors: [ Asians ]
+description: Curar vida e fome
+commands:
+  cure:
+    description: Cures you
+    usage: /<command>
